@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Saraha-Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm1.h(1316,11): warning C4101: 'lineid': unreferenced local variable
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm1.h(1316,19): warning C4101: 'linename': unreferenced local variable
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm1.h(1460,16): warning C4018: '<': signed/unsigned mismatch
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm1.h(1545,17): warning C4018: '<=': signed/unsigned mismatch
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm1.h(1594,19): warning C4018: '<=': signed/unsigned mismatch
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm.h(209,9): warning C4101: 'count2': unreferenced local variable
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm.h(224,10): warning C4101: 'IDD': unreferenced local variable
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm.cpp(5,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm1.h(1316,11): warning C4101: 'lineid': unreferenced local variable
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm1.h(1316,19): warning C4101: 'linename': unreferenced local variable
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm1.h(1460,16): warning C4018: '<': signed/unsigned mismatch
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm1.h(1545,17): warning C4018: '<=': signed/unsigned mismatch
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\MyForm1.h(1594,19): warning C4018: '<=': signed/unsigned mismatch
+  SignUpForm.cpp
+  users.cpp
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\users.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+D:\FCIS\Projects\MiniSaraha\Saraha-Project\users.cpp(64,22): warning C4018: '<': signed/unsigned mismatch
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Saraha-Project.vcxproj -> D:\FCIS\Projects\MiniSaraha\Debug\SarahaProject.exe
